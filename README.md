@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Lucasdfg07/Evernote-clone-web/blob/master/src/assets/images/logo.png)
+![Logo of the project](https://github.com/Lucasdfg07/MoveIt/blob/main/public/logo-full.svg)
 
 ## Move It
 This application has a goal of exercising yourself while you are working, to reduce future problems for lack of exercise.
