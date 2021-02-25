@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { ChallengesProvider } from '../contexts/ChallengesContext';
 import '../styles/global.css';
 
 function MyApp({ Component, pageProps }) {
@@ -8,7 +9,9 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" type="image/png" href="/favicon.png"/>
       </Head>
 
-      <Component {...pageProps} />
+      <ChallengesProvider>
+        <Component {...pageProps} />
+      </ChallengesProvider>
     </div>
   )
 }
