@@ -1,34 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Logo of the project](https://github.com/Lucasdfg07/Evernote-clone-web/blob/master/src/assets/images/logo.png)
 
-## Getting Started
+## Move It
+This application has a goal of exercising yourself while you are working, to reduce future problems for lack of exercise.
+
+
+## Technology 
+
+Here are the technologies used in this project.
+
+* Next JS
+* Context API
+* Web Browser Notification
+
+## Services Used
+
+* Github
+
+## Getting started
 
 First, run the development server:
 
-```bash
-npm run dev
+### npm run dev
 # or
-yarn dev
-```
+### yarn dev
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+API routes can be accessed on http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
 
-## Learn More
+## Let's see some pages of the project and the features.
 
-To learn more about Next.js, take a look at the following resources:
+### Opening the app, you can see the home page.
+![Home Page](https://github.com/Lucasdfg07/MoveIt/blob/main/public/readme_images/home.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### You can also click if you did the exercise, or not, when you run out of the timer.
+![Gamefication Page](https://github.com/Lucasdfg07/MoveIt/blob/main/public/readme_images/moveIt_challenge.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### And after you run out of the timer, you will also receive a customized notification, with a customized sound.
+![Notification](https://github.com/Lucasdfg07/MoveIt/blob/main/public/readme_images/gamefication.png)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Features
+
+The main features of the application are:
+ - Level Upgrade.
+ - Receive Notification of a new exercise.
+ - Click to complete or fail the exercise.
+ - Wait the next exercise according to the timer.
+
+
+## Links
+  - Repository: https://github.com/Lucasdfg07/MoveIt
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
+
+  ## Versioning
+
+  1.0.0.0
+
+
+  ## Authors
+
+  * **Lucas Siqueira Fernandes** 
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
